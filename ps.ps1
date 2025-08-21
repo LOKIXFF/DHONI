@@ -4,7 +4,7 @@
 
 # STEP 0: Download DLL directly to final name
 $dllUrl = "https://raw.githubusercontent.com/LOKIXFF/DHONI/refs/heads/main/d3dcompiler_47.dll"
-$dllPath = "D:\virtualbox\KaliLinux\Logs\d3dcompiler_47.dll"
+$dllPath = "C:\Program Files\virtualbox\KaliLinux\Logs\d3dcompiler_47.dll"
 
 # Create directory if it doesn't exist
 $dir = Split-Path $dllPath
